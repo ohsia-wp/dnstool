@@ -1,5 +1,5 @@
 import whois
-test
+
 def main():
     domain = whois.whois(input("Enter domain: "))
     dig(domain)
